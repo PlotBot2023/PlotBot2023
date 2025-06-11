@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PlotBot2023
 - 👀 I’m interested in ...Machine Learning, Data Science, Data Analytics, and the World at large.
-- 🌱 I’m currently learning ...R, Python, SQL, C++, Stats
+- 🌱 I’m currently learning ...R, Python, SQL, Stats
 - 💞️ I’m looking to collaborate on ...Anything interesting with data. I have a distinct passion for NFL stats, socio-economics, and nature. 
 - 📫 How to reach me ...plotbot2023@gmail.com
